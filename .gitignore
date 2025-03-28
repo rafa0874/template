@@ -1,0 +1,8 @@
+/APS.rbxlx
+/*.rbxlx.lock
+/*.rbxl.lock
+
+Packages/
+
+wally.lock
+sourcemap.json
